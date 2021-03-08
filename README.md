@@ -1,7 +1,6 @@
 KONDA REDDY
-===========
-
--------------------     ----------------------------
+=========== 
+----------------------------------------------------
 EMAIL                         reddybonam999@gmail.com
 phone                         6281787431
 MYCountry                     India  
@@ -21,14 +20,13 @@ SKILL
 - C
 - C++
 - JAVA
-
-  CERTIFICATIONS:
-  ----------------
-  sucessfully completed ms office
-  
-  
-  personal Info
-  -------------
+CERTIFICATIONS:
+----------------
+   - sucessfully completed ms office
+   -  sucessfully completed  C-LANGUAGE
+   
+ personal Info
+ -------------
   - father Name : ***********
   - DOB         : **/**/****
   - Gender      : male
